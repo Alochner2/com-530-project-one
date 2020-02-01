@@ -48,6 +48,7 @@ table {
 }
 
 /* Add custom styles below...*/
+
 @import url('https://fonts.googleapis.com/css?family=Rosario:400,400i,700&display=swap&subset=latin-ext');
 
 html {
@@ -59,7 +60,8 @@ html {
 }
 h1 {
 	color: #3066BE;
-	font-size: 2em;
+	font-size: 35.156px;
+	font-weight: 600;
 	line-height: 35px;
   padding-bottom: .50em;
 }
