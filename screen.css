@@ -48,18 +48,21 @@ table {
 }
 
 /* Add custom styles below...*/
+@import url('https://fonts.googleapis.com/css?family=Rosario:400,400i,700&display=swap&subset=latin-ext');
+
 html {
 	background-color: #E2F0FF;
-	font-family: Arial, sans-serif;
+	font-family: "Rosario", Arial, sans-serif;
 	font-size: 18px;
 	line-height: 22px; /* ~120% of 18px */
-	padding: 0.5em;
+	padding: 0.5em 1.8333333333em;
 }
 h1 {
 	color: #3066BE;
 	font-size: 2em;
+	line-height: 35px;
   padding-bottom: .50em;
 }
 p {
-  padding-bottom: 0.5em; color: #963484;
+  padding-bottom: 1.22em; color: #963484;
 }
