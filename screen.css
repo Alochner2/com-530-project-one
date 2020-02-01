@@ -53,17 +53,17 @@ table {
 
 html {
 	background-color: #E2F0FF;
-	font-family: "Rosario", Arial, sans-serif;
+	font-family: "Rosario", Helvetica, Arial, sans-serif;
 	font-size: 18px;
 	line-height: 22px; /* ~120% of 18px */
-	padding: 0.5em 1.8333333333em;
+	padding: 2.0em 1.8333333333em;
 }
 h1 {
 	color: #3066BE;
 	font-size: 35.156px;
 	font-weight: 600;
 	line-height: 35px;
-  padding-bottom: .50em;
+  padding-bottom: 2.50em;
 }
 p {
   padding-bottom: 1.22em; color: #963484;
