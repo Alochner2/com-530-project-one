@@ -28,7 +28,7 @@ article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
 	display: block;
 }
-body {
+html {
 	line-height: 1;
 }
 ol, ul {
@@ -49,13 +49,16 @@ table {
 
 /* Add custom styles below...*/
 html {
-	background-color: #B6DAFF;
+	background-color: #E2F0FF;
+	font-family: Arial, sans-serif;
+	font-size: 18px;
+	line-height: 22px; /* ~120% of 18px */
 	padding: 0.5em;
 }
 h1 {
 	color: #3066BE;
 	font-size: 2em;
-  padding-bottom: .25em;
+  padding-bottom: .50em;
 }
 p {
   padding-bottom: 0.5em; color: #963484;
