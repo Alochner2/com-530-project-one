@@ -9,18 +9,18 @@ a,abbr,acronym,address,applet,article,aside,audio,b,big,blockquote,body,canvas,c
 /* Begin site styles... */
 
 html {
-	background-color: #E2F0FF;
-	font-family: "Rosario", Helvetica, Arial, sans-serif;
-	font-size: 18px;
-	line-height: 22px; /* ~120% of 18px */
-	padding: 2.0em 1.8333333333em;
+  background-color: #E2F0FF;
+  font-family: "Rosario", Helvetica, Arial, sans-serif;
+  font-size: 18px;
+  line-height: 22px; /* ~120% of 18px */
+  padding: 2.0em 1.8333333333em;
 }
 h1 {
-	border-bottom: 0.3055555556em solid #963484;
-	color: #3066BE;
-	font-size: 35.156px;
-	font-weight: 600;
-	line-height: 35px;
+  border-bottom: 0.3055555556em solid #963484;
+  color: #3066BE;
+  font-size: 35.156px;
+  font-weight: 600;
+  line-height: 35px;
   padding-bottom: 2.50em;
 }
 p {
