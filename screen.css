@@ -16,6 +16,7 @@ html {
 	padding: 2.0em 1.8333333333em;
 }
 h1 {
+	border-bottom: 0.3055555556em solid #963484;
 	color: #3066BE;
 	font-size: 35.156px;
 	font-weight: 600;
